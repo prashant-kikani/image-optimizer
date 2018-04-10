@@ -19,12 +19,19 @@ Make sure you have the following is installed:
  - [Python 3](https://www.python.org/)
  - [NumPy](http://www.numpy.org/)
  - [SciPy](https://www.scipy.org/)
- - [PIL] (Python Image Library)
+ - PIL (Python Image Library)
 
 ## Usage
-Give image path by command line argument.
-`
+Give image path by command line argument.<br/>
+```
 python optimizer.py IMAGE_PATH
-`
+```
 <br/>
 Give relative image path inplace of IMAGE_PATH
+
+## Sample performance
+ - Before <b>size : 1482 KB</b><br/>
+ <p align="center"><img src="imgs/m2.jpg" alt="befimg1" height="500"/></p>
+ <br/>
+ after <b>size : 396 KB</b>. Resolution is still same. But size is decresed by 70%<br/>
+ <p align="center"><img src="imgs/m2_opti_by_pkikani.jpg" alt="befimg1" height="500"/></p>
