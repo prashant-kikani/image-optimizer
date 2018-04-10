@@ -30,10 +30,10 @@ python optimizer.py IMAGE_PATH
 Give relative image path inplace of IMAGE_PATH
 
 ## Sample performance
- - Before <b>size : 1482 KB</b><br/>
+ - Before <b>size : 135 KB</b><br/>
  <p align="center"><img src="imgs/org.jpg" alt="befimg1" height="500"/></p>
  <br/>
- after <b>size : 396 KB</b>. <br/>Resolution is still same. But size is decresed by ~70%<br/>
+ after <b>size : 119 KB</b>. <br/>Resolution is still same. But size is decresed by ~70%<br/>
  <p align="center"><img src="imgs/org_opti_by_pkikani.jpg" alt="befimg1" height="500"/></p>
  
  - Before <b>size : 3358 KB</b><br/>
