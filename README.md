@@ -33,5 +33,15 @@ Give relative image path inplace of IMAGE_PATH
  - Before <b>size : 1482 KB</b><br/>
  <p align="center"><img src="imgs/m2.jpg" alt="befimg1" height="500"/></p>
  <br/>
- after <b>size : 396 KB</b>. Resolution is still same. But size is decresed by 70%<br/>
+ after <b>size : 396 KB</b>. Resolution is still same. But size is decresed by ~70%<br/>
  <p align="center"><img src="imgs/m2_opti_by_pkikani.jpg" alt="befimg1" height="500"/></p>
+ 
+ - Before <b>size : 3358 KB</b><br/>
+ <p align="center"><img src="imgs/m9.jpg" alt="befimg1" height="500"/></p>
+ <br/>
+ after <b>size : 960 KB</b>. Resolution is still same. But size is decresed by ~70%<br/>
+ <p align="center"><img src="imgs/m9_opti_by_pkikani.jpg" alt="befimg1" height="500"/></p>
+ 
+## Future improvements
+Average time for optimizing a 1280 x 720 image is around 2 minutes. That is very long.<br/>
+I will try to reduce that time.
