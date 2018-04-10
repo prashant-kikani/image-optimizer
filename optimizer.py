@@ -186,7 +186,7 @@ class JPEGFileReader:
     def __int2(self, bin_num):
         return int(bin_num, 2)
 
-"""
+
 def read_image_file(filepath):
     reader = JPEGFileReader(filepath)
 
@@ -232,7 +232,8 @@ def read_image_file(filepath):
                     cells_count += 1
 
     return dc, ac, tables, blocks_count
-"""
+
+
 # @autojit
 def zigzag_to_block(zigzag):
     # assuming that the width and the height of the block are equal
@@ -298,7 +299,7 @@ def main():
     print(rows / 8, cols / 8, int(rows / 8), int(cols / 8))
     blocks_count = int(rows / 8) * int(cols / 8)
     		
-        # raise ValueError(("the width and height of the image should both be mutiples of 8"))
+    # raise ValueError(("the width and height of the image should both be mutiples of 8"))
     print("blocks_count : ", blocks_count)
     # dc is the top-left cell of the block, ac are all the other cells
     dc = np.empty((blocks_count, 3), dtype=np.int32)
