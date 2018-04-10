@@ -23,9 +23,9 @@ Make sure you have the following is installed:
 
 ## Usage
 Give image path by command line argument.<br/>
-'''
+```
 python optimizer.py IMAGE_PATH
-'''
+```
 <br/><br/>
 Give relative image path inplace of IMAGE_PATH
 
