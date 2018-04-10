@@ -33,5 +33,5 @@ Give relative image path inplace of IMAGE_PATH
  - Before <b>size 1482 KB</b><br/>
  <p align="center"><img src="imgs/m2.jpg" alt="befimg1" height="500"/></p>
  <br/>
- - after <b>size 396 KB</b><br/>
+ after <b>size 396 KB</b><br/>
  <p align="center"><img src="imgs/m2_opti_by_pkikani.jpg" alt="befimg1" height="500"/></p>
