@@ -30,8 +30,8 @@ python optimizer.py IMAGE_PATH
 Give relative image path inplace of IMAGE_PATH
 
 ## Sample performance
- - Before <b>size 1482 KB</b>
- [befimg1](https://github.com/prashant-kikani/image-optimizer/blob/master/imgs/m2.jpg)
+ - Before <b>size 1482 KB</b><br/>
+ <p align="center"><img src="imgs/m2.jpg" alt="befimg1" height="500"/></p>
  <br/>
- - after <b>size 396 KB</b>
- [afimg1](https://github.com/prashant-kikani/image-optimizer/blob/master/imgs/m2_opti_by_pkikani.jpg)
+ - after <b>size 396 KB</b><br/>
+ <p align="center"><img src="imgs/m2_opti_by_pkikani.jpg" alt="befimg1" height="500"/></p>
