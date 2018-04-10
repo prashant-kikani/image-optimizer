@@ -1,5 +1,5 @@
 # image-optimizer
-Optimize any image by chroma subsampling and optimized huffman coding.<br/>
+Optimize any image using techniques like <b>chroma subsampling</b> and <b>optimized huffman coding</b> etc.<br/>
 
 ## Introduction
 Images we capture today, contains so much extra information that is not needed. <br/>
