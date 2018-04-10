@@ -33,13 +33,13 @@ Give relative image path inplace of IMAGE_PATH
  - Before <b>size : 1482 KB</b><br/>
  <p align="center"><img src="imgs/m2.jpg" alt="befimg1" height="500"/></p>
  <br/>
- after <b>size : 396 KB</b>. Resolution is still same. But size is decresed by ~70%<br/>
+ after <b>size : 396 KB</b>. <br/>Resolution is still same. But size is decresed by ~70%<br/>
  <p align="center"><img src="imgs/m2_opti_by_pkikani.jpg" alt="befimg1" height="500"/></p>
  
  - Before <b>size : 3358 KB</b><br/>
  <p align="center"><img src="imgs/m9.jpg" alt="befimg1" height="500"/></p>
  <br/>
- after <b>size : 960 KB</b>. Resolution is still same. But size is decresed by ~70%<br/>
+ after <b>size : 960 KB</b>. <br/>Resolution is still same. But size is decresed by ~70%<br/>
  <p align="center"><img src="imgs/m9_opti_by_pkikani.jpg" alt="befimg1" height="500"/></p>
  
 ## Future improvements
