@@ -44,6 +44,12 @@ Give relative image path inplace of IMAGE_PATH
  after <b>size : 960 KB</b>.  Resolution : 4208 x 2368<br/>Resolution is still same. But size is decresed by ~70%<br/>
  <p align="center"><img src="imgs/m9_opti_by_pkikani.jpg" alt="befimg1" height="500"/></p>
  
+ - Before <b>size : 1482 KB</b>.  Resolution : 2592 x 1458<br/>
+ <p align="center"><img src="imgs/m2.jpg" alt="befimg1" height="500"/></p>
+ <br/>
+ after <b>size : 396 KB</b>.  Resolution : 2592 x 1458<br/>Resolution is still same. But size is decresed by ~70%<br/>
+ <p align="center"><img src="imgs/m2_opti_by_pkikani.jpg" alt="befimg1" height="500"/></p>
+ 
  - Before <b>size : 566 KB</b>.  Resolution : 2000 x 1125<br/>
  <p align="center"><img src="imgs/p1.jpeg" alt="befimg1" height="500"/></p>
  <br/>
